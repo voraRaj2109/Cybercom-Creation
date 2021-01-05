@@ -1,0 +1,25 @@
+$ git config --global user.name raj 
+$ git config --global user.email rajvorarv1@gmail.com
+$ git config --global user.email 
+$ code . 
+$ git init 
+$ ls -lart 
+$ touch index.php
+$ git add index.php
+$ git add -A 
+$ git status 
+$ git commit  
+$ git commit -m "Added more htmls" 
+$ git checkout contact.html  
+$ git checkout -f 
+$ git log  
+$ git diff 
+$ git diff --staged
+$ git rm filename.html  
+$ git rm --cached filename.html  
+$ git log -p -2  
+$ git status -s  
+$ git push 
+$ git pull
+
+And Other Basic Command try it Gitbash 
