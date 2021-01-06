@@ -1,0 +1,13 @@
+today is same command perform and some error face like
+
+fatal: destination path 'cc' already exists and is not an empty directory.
+
+this error is google search then final this problem hint in stackoverflow and apply..
+
+$ git push
+$ git pull
+$ git reset index.php
+$ git reset commit_id
+$ git show commit_id
+
+and other some basic command refer in create new repo. and prectices.
